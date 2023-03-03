@@ -1,0 +1,296 @@
+Electric car model,kWh per mile,kw per kilometer
+2020 Tesla Model 3 Standard Range Plus,0.24,0.15
+2021 Tesla Model 3 Standard Range Plus RWD,0.24,0.15
+2019 Tesla Model 3 Standard Range Plus,0.25,0.16
+2022 Tesla Model 3 RWD,0.25,0.16
+2018 Hyundai Ioniq Electric,0.25,0.16
+2019 Hyundai Ioniq Electric,0.25,0.16
+2017 Hyundai Ioniq Electric,0.25,0.16
+2021 Hyundai Ioniq Electric,0.25,0.16
+2020 Hyundai Ioniq Electric,0.25,0.16
+2021 Tesla Model 3 Long Range AWD,0.25,0.16
+2018 Tesla Model 3 Long Range,0.25,0.16
+2020 Tesla Model 3 Standard Range,0.26,0.16
+2021 Tesla Model Y Standard Range RWD,0.26,0.16
+2020 Tesla Model 3 Long Range,0.26,0.16
+2019 Tesla Model 3 Long Range,0.26,0.16
+2019 Tesla Model 3 Standard Range,0.26,0.16
+2022 Tesla Model 3 Long Range AWD,0.26,0.16
+2022 Tesla Model Y RWD,0.26,0.16
+2022 Lucid Air Grand Touring with 19in wheels ,0.26,0.16
+2022 Lucid Air Dream Range with 19in wheels ,0.26,0.16
+2021 Hyundai Kona Electric,0.26,0.16
+2017 Tesla Model 3 Long Range,0.26,0.16
+2017 BMW i3 BEV (60 Amp-hour battery),0.26,0.16
+2018 Tesla Model 3 Mid Range,0.26,0.16
+2014 BMW i3 BEV,0.27,0.17
+2020 Tesla Model 3 Mid Range,0.27,0.17
+2021 Tesla Model Y Long Range AWD,0.27,0.17
+2020 Hyundai Kona Electric,0.27,0.17
+2015 BMW i3 BEV,0.27,0.17
+2016 BMW i3 BEV,0.27,0.17
+2019 Tesla Model 3 Mid Range,0.27,0.17
+2022 Lucid Air Grand Touring with 21in wheels ,0.27,0.17
+2022 Tesla Model Y Long Range AWD,0.27,0.17
+2022 Tesla Model S,0.27,0.17
+2017 Chevrolet Bolt EV,0.27,0.17
+2018 Volkswagen e-Golf,0.27,0.17
+2014 Chevrolet Spark EV,0.28,0.18
+2017 Volkswagen e-Golf,0.28,0.18
+2016 Chevrolet Spark EV,0.28,0.18
+2013 Scion iQ EV,0.28,0.18
+2020 Tesla Model Y Long Range AWD,0.28,0.18
+2022 Chevrolet Bolt EV,0.28,0.18
+2019 Hyundai Kona Electric,0.28,0.18
+2019 Chevrolet Bolt EV,0.28,0.18
+2018 Chevrolet Bolt EV,0.28,0.18
+2020 Tesla Model Y Performance AWD,0.28,0.18
+2019 Volkswagen e-Golf,0.28,0.18
+2020 Tesla Model 3 Long Range Performance AWD (18in),0.28,0.18
+2015 Chevrolet Spark EV,0.28,0.18
+2020 Tesla Model 3 Long Range AWD,0.28,0.18
+2021 Tesla Model S Long Range,0.28,0.18
+2022 Lucid Air Dream Performance with 19in wheels ,0.28,0.18
+2022 Lucid Air Dream Range with 21in wheels ,0.28,0.18
+2017 BMW i3 BEV (94 Amp-hour battery),0.28,0.18
+2013 Nissan Leaf,0.28,0.18
+2014 Honda Fit EV,0.28,0.18
+2013 Fiat 500e,0.28,0.18
+2018 BMW i3 (94Ah),0.28,0.18
+2020 Tesla Model 3 Long Range Performance AWD (19in),0.28,0.18
+2022 Tesla Model S Plaid (19in Wheels),0.28,0.18
+2015 Fiat 500e,0.28,0.18
+2022 Chevrolet Bolt EUV,0.28,0.18
+2014 Fiat 500e,0.29,0.18
+2016 Volkswagen e-Golf,0.29,0.18
+2018 Tesla Model 3 Long Range AWD,0.29,0.18
+2020 Tesla Model S Long Range Plus,0.29,0.18
+2020 Chevrolet Bolt EV,0.29,0.18
+2020 Kia Soul Electric,0.29,0.18
+2019 Tesla Model 3 Long Range AWD,0.29,0.18
+2015 Volkswagen e-Golf,0.29,0.18
+2013 Honda Fit EV,0.29,0.18
+2018 Tesla Model 3 Long Range AWD Performance,0.29,0.18
+2019 Tesla Model 3 Long Range AWD Performance,0.29,0.18
+2021 Chevrolet Bolt EV,0.29,0.18
+2022 Lucid Air Dream Performance with 21in wheels ,0.29,0.18
+2017 Nissan Leaf,0.29,0.18
+2017 Fiat 500e,0.29,0.18
+2021 Kandi K27,0.29,0.18
+2014 Nissan Leaf,0.29,0.18
+2019 BMW i3s,0.29,0.18
+2021 Tesla Model 3 Performance AWD,0.29,0.18
+2020 Tesla Model Y Performance AWD (21in Wheels),0.29,0.18
+2022 Tesla Model 3 Performance AWD,0.29,0.18
+2022 Tesla Model Y Performance AWD,0.29,0.18
+2021 Nissan Leaf (40 kW-hr battery pack),0.29,0.18
+2014 Mitsubishi i-MiEV,0.29,0.18
+2021 Kia Niro Electric,0.29,0.18
+2017 Honda Clarity EV,0.3,0.19
+2016 Mitsubishi i-MiEV,0.3,0.19
+2017 Mitsubishi i-MiEV,0.3,0.19
+2012 Mitsubishi i-MiEV,0.3,0.19
+2020 BMW i3,0.3,0.19
+2016 Nissan Leaf (30 kW-hr battery pack),0.3,0.19
+2020 Tesla Model 3 Long Range Performance AWD (20in),0.3,0.19
+2018 Honda Clarity EV,0.3,0.19
+2019 Kia Niro Electric,0.3,0.19
+2019 BMW i3,0.3,0.19
+2020 BMW i3s,0.3,0.19
+2021 BMW i3,0.3,0.19
+2018 Nissan Leaf,0.3,0.19
+2019 Fiat 500e,0.3,0.19
+2018 Fiat 500e,0.3,0.19
+2013 Mitsubishi i-MiEV,0.3,0.19
+2019 Honda Clarity EV,0.3,0.19
+2019 Tesla Model S Long Range,0.3,0.19
+2018 BMW i3s (94Ah),0.3,0.19
+2021 Tesla Model Y Performance AWD,0.31,0.19
+2021 BMW i3s,0.31,0.19
+2020 Kia Niro Electric,0.31,0.19
+2015 Nissan Leaf,0.31,0.19
+2019 Nissan Leaf (40 kW-hr battery pack),0.31,0.19
+2016 Fiat 500e,0.31,0.19
+2020 Tesla Model S Long Range,0.31,0.19
+2016 Nissan Leaf (24 kW-hr battery pack),0.31,0.19
+2020 Nissan Leaf (40 kW-hr battery pack),0.31,0.19
+2020 Tesla Model S Standard Range,0.31,0.19
+2020 MINI Cooper SE Hardtop 2 door,0.31,0.19
+2019 Tesla Model S Standard Range,0.31,0.19
+2021 Nissan Leaf (62 kW-hr battery pack),0.31,0.19
+2020 Nissan Leaf (62 kW-hr battery pack),0.31,0.19
+2018 Ford Focus Electric,0.31,0.19
+2019 Kia Soul Electric,0.31,0.19
+2017 smart fortwo electric drive coupe,0.31,0.19
+2018 smart fortwo electric drive coupe,0.31,0.19
+2022 MINI Cooper SE Hardtop 2 door,0.31,0.19
+2018 Kia Soul Electric,0.31,0.19
+2021 MINI Cooper SE Hardtop 2 door,0.31,0.19
+2021 Tesla Model S Performance (19in Wheels),0.31,0.19
+2019 Nissan Leaf (62 kW-hr battery pack),0.31,0.19
+2019 smart EQ fortwo (coupe),0.32,0.2
+2017 Ford Focus Electric,0.32,0.2
+2014 smart fortwo electric drive coupe,0.32,0.2
+2017 Tesla Model S AWD – 60D,0.32,0.2
+2014 smart fortwo electric drive convertible,0.32,0.2
+2019 Tesla Model S Performance (19in Wheels),0.32,0.2
+2015 smart fortwo electric drive coupe,0.32,0.2
+2016 Kia Soul Electric,0.32,0.2
+2016 Tesla Model S AWD – 60D,0.32,0.2
+2020 Tesla Model X Long Range Plus,0.32,0.2
+2015 smart fortwo electric drive convertible,0.32,0.2
+2020 Tesla Model S Performance (19in Wheels),0.32,0.2
+2016 smart fortwo electric drive coupe,0.32,0.2
+2013 Ford Focus Electric,0.32,0.2
+2020 Nissan Leaf SV/SL (62 kW-hr battery pack),0.32,0.2
+2014 Ford Focus Electric,0.32,0.2
+2021 Tesla Model X Long Range Plus,0.32,0.2
+2021 Nissan Leaf SV/SL (62 kW-hr battery pack),0.32,0.2
+2015 Ford Focus Electric,0.32,0.2
+2017 Tesla Model S AWD – 90D,0.32,0.2
+2012 Ford Focus Electric,0.32,0.2
+2015 Kia Soul Electric,0.32,0.2
+2017 Kia Soul Electric,0.32,0.2
+2016 smart fortwo electric drive convertible,0.32,0.2
+2013 smart fortwo electric drive coupe,0.32,0.2
+2016 Ford Focus Electric,0.32,0.2
+2013 smart fortwo electric drive convertible,0.32,0.2
+2019 Nissan Leaf SV/SL (62 kW-hr battery pack),0.32,0.2
+2017 Tesla Model S AWD – 100D,0.32,0.2
+2019 smart EQ fortwo (convertible),0.32,0.2
+2021 Tesla Model S Plaid (21in Wheels),0.32,0.2
+2022 Tesla Model X,0.33,0.21
+2022 Tesla Model S Plaid (21in Wheels),0.33,0.21
+2016 Tesla Model S AWD – 75D,0.33,0.21
+2017 smart fortwo electric drive convertible,0.33,0.21
+2020 Tesla Model X Standard Range,0.33,0.21
+2018 Tesla Model S 100D,0.33,0.21
+2016 Tesla Model S AWD – 70D,0.33,0.21
+2011 BMW Active E,0.33,0.21
+2019 Tesla Model S 75D,0.33,0.21
+2021 Ford Mustang Mach-E RWD California Route 1,0.33,0.21
+2016 Tesla Model S AWD – 90D,0.33,0.21
+2017 Tesla Model S AWD – 75D,0.33,0.21
+2015 Tesla Model S AWD – 70D,0.33,0.21
+2019 Tesla Model S 100D,0.33,0.21
+2018 Tesla Model S 75D,0.33,0.21
+2018 smart fortwo electric drive convertible,0.33,0.21
+2016 Tesla Model S AWD – 85D,0.33,0.21
+2012 Nissan Leaf,0.33,0.21
+2017 Tesla Model S (75 kW-hr battery pack),0.33,0.21
+2008 MINI MiniE,0.33,0.21
+2021 Ford Mustang Mach-E RWD,0.33,0.21
+2011 Nissan Leaf,0.33,0.21
+2017 Tesla Model S (60 kW-hr battery pack),0.33,0.21
+2016 Tesla Model S (75 kW-hr battery pack),0.33,0.21
+2021 Volkswagen ID.4 Pro,0.33,0.21
+2015 Tesla Model S AWD – 90D,0.33,0.21
+2018 Tesla Model S 75kWh,0.33,0.21
+2016 Tesla Model S (60 kW-hr battery pack),0.34,0.21
+2015 Tesla Model S AWD – 85D,0.34,0.21
+2022 Tesla Model X Plaid (20in Wheels),0.34,0.21
+2019 Tesla Model X Long Range,0.34,0.21
+2019 Tesla Model S P100D,0.34,0.21
+2017 Tesla Model S AWD – P100D,0.34,0.21
+2021 Volkswagen ID.4 Pro S,0.34,0.21
+2018 Tesla Model S P100D,0.34,0.21
+2017 Tesla Model S AWD – P90D,0.34,0.21
+2020 Tesla Model X Long Range,0.34,0.21
+2015 Tesla Model S (60 kW-hr battery pack),0.34,0.21
+2021 Ford Mustang Mach-E RWD Extended,0.34,0.21
+2020 Tesla Model S Performance (21in Wheels),0.34,0.21
+2016 Tesla Model S AWD – P90D,0.34,0.21
+2021 Volkswagen ID.4 1st,0.34,0.21
+2021 Tesla Model S Performance (21in Wheels),0.34,0.21
+2019 Tesla Model S Performance (21in Wheels),0.34,0.21
+2021 Tesla Model X Performance (20in Wheels),0.34,0.21
+2016 Tesla Model S AWD – P100D,0.34,0.21
+2014 Tesla Model S (60 kW-hr battery pack),0.34,0.21
+2013 Tesla Model S (60 kW-hr battery pack),0.34,0.21
+2013 Tesla Model S (40 kW-hr battery pack),0.34,0.21
+2019 Tesla Model X 75D,0.34,0.21
+2018 Tesla Model X 75D,0.34,0.21
+2017 Tesla Model X AWD – 60D,0.34,0.21
+2016 Tesla Model X AWD – 75D,0.34,0.21
+2021 Ford Mustang Mach-E AWD,0.34,0.21
+2016 Tesla Model X AWD – 60D,0.34,0.21
+2016 Tesla Model S AWD – P85D,0.34,0.21
+2017 Tesla Model X AWD – 75D,0.34,0.21
+2015 Tesla Model S AWD – P85D,0.34,0.21
+2015 Tesla Model S AWD – P90D,0.34,0.21
+2021 Ford Mustang Mach-E AWD Extended,0.34,0.21
+2016 Tesla Model X AWD – 90D,0.34,0.21
+2021 Polestar 2,0.34,0.21
+2017 Tesla Model X AWD – 90D,0.34,0.21
+2022 Tesla Model X Plaid (22in Wheels),0.34,0.21
+2016 Tesla Model S (70 kW-hr battery pack),0.34,0.21
+2015 Tesla Model S (90 kW-hr battery pack),0.34,0.21
+2014 Tesla Model S (85 kW-hr battery pack),0.34,0.21
+2016 Tesla Model X AWD – P90D,0.35,0.22
+2016 Tesla Model S (85 kW-hr battery pack),0.35,0.22
+2016 Tesla Model S (90 kW-hr battery pack),0.35,0.22
+2013 Tesla Model S (85 kW-hr battery pack),0.35,0.22
+2012 Tesla Model S,0.35,0.22
+2015 Tesla Model S (85 kW-hr battery pack),0.35,0.22
+2017 Tesla Model X AWD – P90D,0.35,0.22
+2014 Tesla Model S AWD (85 kW-hr battery pack),0.35,0.22
+2020 Tesla Model X Performance (20in Wheels),0.35,0.22
+2011 smart fortwo electric drive cabriolet,0.35,0.22
+2011 smart fortwo electric drive coupe,0.35,0.22
+2016 Tesla Model X AWD – P100D,0.35,0.22
+2021 Tesla Model X Performance (22in Wheels),0.35,0.22
+2019 Tesla Model X 100D,0.35,0.22
+2017 Tesla Model X AWD – P100D,0.35,0.22
+2018 Tesla Model X 100D,0.35,0.22
+2017 Tesla Model X AWD – 100D,0.35,0.22
+2000 Nissan Altra EV,0.35,0.22
+2017 Mercedes-Benz B250e,0.35,0.22
+2019 Tesla Model X P100D,0.35,0.22
+2014 Mercedes-Benz B-Class Electric Drive,0.35,0.22
+2018 Tesla Model X P100D,0.35,0.22
+2016 Mercedes-Benz B250e,0.35,0.22
+2015 Mercedes-Benz B-Class Electric Drive,0.35,0.22
+2021 Porsche Taycan Perf Battery,0.36,0.23
+2021 Porsche Taycan 4S Perf Battery,0.36,0.23
+2021 Porsche Taycan 4S Perf Battery Plus,0.36,0.23
+2021 Audi e-tron,0.36,0.23
+2020 Tesla Model X Performance (22in Wheels),0.36,0.23
+2021 Volvo XC40 AWD BEV,0.36,0.23
+2019 Tesla Model X Performance (22in Wheels),0.36,0.23
+2003 Toyota RAV4 EV,0.36,0.23
+2002 Toyota RAV4 EV,0.36,0.23
+2019 Jaguar I-Pace,0.36,0.23
+2020 Jaguar I-Pace,0.36,0.23
+2021 Audi e-tron Sportback,0.36,0.23
+2021 Jaguar I-Pace EV400,0.36,0.23
+2013 Toyota RAV4 EV,0.36,0.23
+2020 Audi e-tron Sportback,0.36,0.23
+2012 Toyota RAV4 EV,0.36,0.23
+2014 Toyota RAV4 EV,0.36,0.23
+2021 Porsche Taycan Turbo,0.36,0.23
+2021 Porsche Taycan Perf Battery Plus,0.36,0.23
+2001 Nissan Hyper-Mini,0.36,0.23
+2013 CODA Automotive CODA,0.37,0.23
+2019 Audi e-tron,0.37,0.23
+2012 CODA Automotive CODA,0.37,0.23
+2000 Toyota RAV4 EV,0.37,0.23
+2020 BYD e6,0.37,0.23
+2001 Toyota RAV4 EV,0.37,0.23
+2016 BYD e6,0.37,0.23
+2018 BYD e6,0.37,0.23
+2017 BYD e6,0.37,0.23
+2021 Porsche Taycan Turbo S,0.37,0.23
+2020 Porsche Taycan Turbo,0.37,0.23
+2020 Porsche Taycan 4S Perf Battery Plus,0.37,0.23
+2020 Porsche Taycan Turbo S,0.37,0.23
+2001 Ford Th!nk,0.37,0.23
+2014 BYD e6,0.37,0.23
+2012 Azure Dynamics Transit Connect Electric Van,0.37,0.23
+2012 BYD e6,0.37,0.23
+2013 BYD e6,0.37,0.23
+2012 Azure Dynamics Transit Connect Electric Wagon,0.37,0.23
+2000 Ford Ranger Pickup 2WD,0.37,0.23
+2001 Ford Ranger Pickup 2WD,0.37,0.23
+2000 Ford Ranger Pickup 2WD,0.37,0.23
+2001 Ford Explorer USPS Electric,0.37,0.23
+2002 Ford Explorer USPS Electric,0.37,0.23
